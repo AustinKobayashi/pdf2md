@@ -5,3 +5,7 @@ npm-debug.log
 dist/
 output/
 .nyc_output/
+
+html/
+input/
+text/
